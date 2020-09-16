@@ -15,6 +15,10 @@ videos:
     url: "/CodingChallenges/154-tic-tac-toe-minimax"
 
 contributions:
+  - title: 'Regular Tic Tac Toe (Human vs Human)'
+    author: 'ss'
+    source: "https://editor.p5js.org/saathvik/sketches/BYtw_7Eid"
+    url:"https://editor.p5js.org/saathvik/full/BYtw_7Eid"
   - title: "Regular Tic-Tac-Toe...or so it seems."
     author: "wmrsp"
     url: "https://editor.p5js.org/wmrsp/full/WvUMYJefz"
